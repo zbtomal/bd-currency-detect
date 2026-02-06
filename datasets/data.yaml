@@ -1,0 +1,9 @@
+# Mamu, ekhane tomar Mac er absolute path dilam
+path: /Users/zbtomal/Documents/GitHub/CG&IP_Assignment/bd-currency-detect/datasets
+train: train/images
+val: valid/images
+test: test/images
+
+# Classes (Roboflow te 9 ta class chilo, 2 takar note shoho)
+nc: 9
+names: ['1000taka', '100taka', '10taka', '200taka', '20taka', '2taka', '500taka', '50taka', '5taka']
